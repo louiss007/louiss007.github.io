@@ -1,0 +1,2 @@
+## Welcome to my personal technology blog
+This blog aims to report some new ideas, some engineer experience from my job, and also keep tracking with frontier theory and tech on Deep Learning, Computer Vision, Automatic Drive and so on.
