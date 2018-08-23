@@ -10,6 +10,10 @@
 -- adam
 -- addelta
 - 激活函数
+-- sigmoid
+-- tanh
+-- relu
+-- maxout
 - 网络结构
 - 梯度弥失
 - 梯度爆炸
