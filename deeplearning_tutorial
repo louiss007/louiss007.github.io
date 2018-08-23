@@ -6,6 +6,9 @@
 -- batch normalization
 -- dropconnect
 - 优化算法
+-- sgd
+-- adam
+-- addelta
 - 激活函数
 - 网络结构
 - 梯度弥失
