@@ -3,11 +3,11 @@
   <title>天道酬勤</title>
   
   <subtitle>天行健，君子以自强不息；地势坤，君子以厚德载物！</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://louiss007.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://louiss007.github.io/"/>
   <updated>2022-03-19T06:17:19.123Z</updated>
-  <id>http://example.com/</id>
+  <id>https://louiss007.github.io/</id>
   
   <author>
     <name>Zheng Fu</name>
@@ -18,18 +18,18 @@
   
   <entry>
     <title>人工智能经典书籍推荐</title>
-    <link href="http://example.com/2022/03/19/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%BB%8F%E5%85%B8%E4%B9%A6%E7%B1%8D%E6%8E%A8%E8%8D%90/"/>
-    <id>http://example.com/2022/03/19/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%BB%8F%E5%85%B8%E4%B9%A6%E7%B1%8D%E6%8E%A8%E8%8D%90/</id>
+    <link href="https://louiss007.github.io/2022/03/19/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%BB%8F%E5%85%B8%E4%B9%A6%E7%B1%8D%E6%8E%A8%E8%8D%90/"/>
+    <id>https://louiss007.github.io/2022/03/19/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%BB%8F%E5%85%B8%E4%B9%A6%E7%B1%8D%E6%8E%A8%E8%8D%90/</id>
     <published>2022-03-19T05:09:14.000Z</published>
     <updated>2022-03-19T06:17:19.123Z</updated>
     
     
     
     
-    <category term="人工智能" scheme="http://example.com/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    <category term="人工智能" scheme="https://louiss007.github.io/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
     
     
-    <category term="人工智能" scheme="http://example.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    <category term="人工智能" scheme="https://louiss007.github.io/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
     
   </entry>
   
