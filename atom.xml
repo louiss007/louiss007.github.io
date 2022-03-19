@@ -6,7 +6,7 @@
   <link href="https://louiss007.github.io/atom.xml" rel="self"/>
   
   <link href="https://louiss007.github.io/"/>
-  <updated>2022-03-19T06:17:19.123Z</updated>
+  <updated>2022-03-19T07:09:56.773Z</updated>
   <id>https://louiss007.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CNN综述</title>
+    <link href="https://louiss007.github.io/2022/03/19/CNN%E7%BB%BC%E8%BF%B0/"/>
+    <id>https://louiss007.github.io/2022/03/19/CNN%E7%BB%BC%E8%BF%B0/</id>
+    <published>2022-03-19T07:09:56.000Z</published>
+    <updated>2022-03-19T07:09:56.773Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>RNN综述</title>
+    <link href="https://louiss007.github.io/2022/03/19/RNN%E7%BB%BC%E8%BF%B0/"/>
+    <id>https://louiss007.github.io/2022/03/19/RNN%E7%BB%BC%E8%BF%B0/</id>
+    <published>2022-03-19T07:00:55.000Z</published>
+    <updated>2022-03-19T07:08:59.672Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>人工智能经典书籍推荐</title>
